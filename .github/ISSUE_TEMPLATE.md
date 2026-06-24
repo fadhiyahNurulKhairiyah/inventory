@@ -1,21 +1,11 @@
----
-name: Feature Request
-about: Ajukan fitur baru untuk ditambahkan ke aplikasi
-title: "[FEATURE] "
-labels: enhancement
-assignees: ''
----
-
+## Judul
+(singkat, jelas)
 ## Deskripsi
-Jelaskan secara singkat fitur yang ingin ditambahkan.
-
-## Latar Belakang / Masalah
-Jelaskan masalah atau kebutuhan yang melatarbelakangi fitur ini.
-
-## Solusi yang Diusulkan
-Jelaskan bagaimana fitur ini seharusnya bekerja.
-
-## Kriteria Penerimaan
-- [ ] Kriteria 1
-- [ ] Kriteria 2
-- [ ] Kriteria 3
+Jelaskan perubahan / bug / enhancement
+## Langkah Reproduksi (jika bug)
+1. ...
+2. ...
+## Harapan
+(apa yang seharusnya terjadi)
+## Label
+- bug / enhancement / docs
